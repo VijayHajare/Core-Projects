@@ -15,7 +15,6 @@ Title: Characterizing Constitutive Relation of a Spring-Damper System
 
 # Project-3
 Title: Elastic and Plastic BVP Analysis
-March - April 2022
 * Formulation of BVP for elastic and plastic material using constitutive relations
 * Estimation of deformation of material for various loading conditions
 
